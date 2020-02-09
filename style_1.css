@@ -1,0 +1,23 @@
+.d1{
+    width: 800px;
+    height: 800px;
+    border-width:2px; 
+    border-style:solid;
+    border-color: #DCDCDC; 
+}
+.space{
+    margin-right: 1em;
+    width:200px;
+    word-break: keep-all;
+    font-weight: bold;
+    
+}
+.space1{margin-right: 3em;
+   
+   
+}
+.space2,.space3,.space4,.space5,.space6,.space7{
+    display: block;
+    
+    
+}

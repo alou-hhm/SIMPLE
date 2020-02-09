@@ -1,0 +1,42 @@
+
+/* .d1{width: 1000px;height:1000px}  */
+
+ .d2{
+        position:absolute;
+        width:200px;
+        height:950px;
+        background-color:#87CEFA;
+   }
+
+    .d3{
+        position: absolute;
+        left:230px;
+        top:20px;
+        width:1000px;
+        height: 1000px;    
+    }
+
+    h1{ 
+        font-size:32px;
+        color:#ffff;
+        padding: 30px;
+        text-align: center;
+    }
+
+    .space{
+        margin-right: 1em;
+        width:200px;
+        word-break: keep-all;
+        font-weight: bold;
+    }
+
+.space1{
+    margin-right: 3em; 
+}
+.space2,.space3,.space4,.space5,.space6,.space7{
+    display: block;
+}
+
+h2{font-size: 32px;}
+p{font-size: 20px;}
+h4{font-size: 20px;}
